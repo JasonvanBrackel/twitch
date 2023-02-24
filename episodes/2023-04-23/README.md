@@ -23,9 +23,15 @@ Note this is a link for the original Video on Demand (VOD).  Twitch VODs expire 
 ### Chapters
 
 00:00 Agenda Review
+
 01:14 Zarf Vesrion 0.24.2 Release Review
+
 09:12 Take a look at the 0.25.x Zarf Milestone
+
 26:29 Dicussion of Next Week's Topics
+
 27:42 Video On Demand Site
+
 29:03 Past Episode Repository
+
 30:48 Next Week's Schedule and Closing
